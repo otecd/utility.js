@@ -12,10 +12,10 @@
         "utility"
     ],
     "license": "MIT",
-    "homepage": "",
+    "homepage": "https://github.com/papadima/utility.js",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:papadima/utility.js.git"
     },
     "ignore": [
         "**/.*",
