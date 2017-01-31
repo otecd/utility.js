@@ -1,6 +1,6 @@
 {
-  "name": "UTILfn",
-  "version": "1.0.0",
+  "name": "utility.js",
+  "version": "0.1.0",
   "description": "utility functions",
   "main": "gulpfile.js",
   "scripts": {
