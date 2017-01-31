@@ -1,0 +1,41 @@
+{
+    "name": "utility.js",
+    "authors": [
+        "<idimzz@gmail.com> (https://github.com/papadima)"
+    ],
+    "description": "utility functions",
+    "main": [
+        "bld/js/utility.js"
+    ],
+    "keywords": [
+        "js",
+        "utility"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "src",
+        "bower.json",
+        "gulpfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "private": false,
+    "dependencies": {
+        "es5-shim": "^4.5.9"
+    },
+    "devDependencies": {
+        "html5shiv": "^3.7.3",
+        "respond": "^1.4.2",
+        "ExplorerCanvas": "excanvas#*"
+    }
+}
